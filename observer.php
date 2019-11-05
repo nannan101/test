@@ -10,4 +10,7 @@ class observer
 	public function add()
 	{
 	}
+	public function edit()
+	{
+	}
 }
