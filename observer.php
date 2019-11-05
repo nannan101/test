@@ -7,5 +7,7 @@
  */
 class observer
 {
-
+	public function add()
+	{
+	}
 }
