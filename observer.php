@@ -7,5 +7,8 @@
  */
 class observer
 {
-
+	public function hash()
+	{
+		
+	}
 }
