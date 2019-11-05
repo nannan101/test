@@ -13,4 +13,8 @@ class observer
 	public function edit()
 	{
 	}
+	
+	public function delete()
+	{
+	}
 }
