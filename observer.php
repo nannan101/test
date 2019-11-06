@@ -17,8 +17,9 @@ class observer
 	public function add()
 	{
 	}
-	public function edit()
+	public function editdd()
 	{
+		echo 'zxc';
 	}
 	
 	public function delete()
